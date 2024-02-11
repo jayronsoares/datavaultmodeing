@@ -1,4 +1,5 @@
-To illustrate a Proof of Concept (POC) using SQL for an insurance company case, let's consider a scenario where the insurance company wants to analyze their policyholder data to identify patterns and trends. We'll focus on creating a simple Data Vault model and performing basic analysis tasks.
+To illustrate a Proof of Concept (POC) using SQL for an insurance company case, let's consider a scenario where the insurance company wants to analyze their policyholder data to identify patterns and trends.
+We'll focus on creating a simple Data Vault model and performing basic analysis tasks.
 
 ### Data Vault Model:
 
@@ -106,4 +107,5 @@ GROUP BY p.Type;
 ```
 
 ### Conclusion:
-This example demonstrates a basic implementation of a Data Vault model for an insurance company case using SQL. It includes the creation of tables for hubs, links, and satellites, along with sample queries for analysis. Depending on the specific requirements and scope of the POC, additional tables, attributes, and queries can be added to further enhance the analysis capabilities.
+This example demonstrates a basic implementation of a Data Vault model for an insurance company case using SQL. It includes the creation of tables for hubs, links, and satellites, 
+along with sample queries for analysis. Depending on the specific requirements and scope of the POC, additional tables, attributes, and queries can be added to further enhance the analysis capabilities.
