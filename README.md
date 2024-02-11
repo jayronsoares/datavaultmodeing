@@ -1,4 +1,4 @@
-# Data Vault Modeling - Insurace Case
+# Data Vault Modeling - Insurance Company Case
 Data Vault modeling is a methodology used in data warehousing to structure and organize data for efficient storage, retrieval, and analysis. It is designed to handle large volumes of data while ensuring scalability, flexibility, and maintainability. Here are some key aspects of Data Vault modeling:
 
 1. **Hub-and-Spoke Architecture**: Data Vault typically consists of three main components: Hubs, Links, and Satellites. Hubs represent the core business entities, Links establish relationships between these entities, and Satellites store additional attributes or details about the entities.
