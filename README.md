@@ -12,3 +12,5 @@ Data Vault modeling is a methodology used in data warehousing to structure and o
 5. **Agility**: Data Vault supports agile development methodologies by allowing for incremental updates and modifications to the data model without disrupting existing processes or applications.
 
 6. **Data Quality**: By separating raw data from business logic and applying strict data governance practices, Data Vault helps maintain data integrity and quality throughout the data lifecycle.
+
+![image](https://github.com/jayronsoares/datavaultmodeling/assets/248106/2efa209a-6c59-4055-9553-a8bab28f9ebc)
